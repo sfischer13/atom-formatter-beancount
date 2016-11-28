@@ -1,0 +1,10 @@
+{
+    "name": "formatter-beancount",
+    "version": "0.0.0",
+    "description": "Formatter for beancount",
+    "repository": "https://github.com/sfischer13/atom-formatter-beancount",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    }
+}
