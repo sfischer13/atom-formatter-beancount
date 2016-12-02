@@ -1,10 +1,22 @@
 {
   "name": "formatter-beancount",
+  "main": "./lib/formatter-beancount",
   "version": "0.1.0",
-  "description": "Formatter for beancount",
+  "description": "Formatter for beancount files.",
+  "keywords": [
+    "beancount",
+    "bean-format",
+    "formatter",
+    "format",
+    "ledger"
+  ],
+  "activationCommands": {
+    "atom-text-editor": "formatter-beancount:run"
+  },
   "repository": "https://github.com/sfischer13/atom-formatter-beancount",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+    "atom": ">=1.10.0 <2.0.0"
+  },
+  "dependencies": {}
 }
