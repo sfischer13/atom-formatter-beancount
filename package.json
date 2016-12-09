@@ -1,7 +1,7 @@
 {
   "name": "formatter-beancount",
   "main": "./lib/formatter-beancount",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Formatter for beancount files.",
   "keywords": [
     "beancount",
