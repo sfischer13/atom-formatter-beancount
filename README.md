@@ -8,12 +8,20 @@
 Make sure [beancount](https://pypi.python.org/pypi/beancount) is installed and set the path on the settings page.
 
 ```
+pip3 install beancount
+```
+
+```
 apm install formatter-beancount
 ```
 
 ### Command
 
 `formatter-beancount:run`
+
+```
+Formatter Beancount: Run
+```
 
 ### Keymap
 
