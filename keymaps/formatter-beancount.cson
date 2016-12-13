@@ -1,2 +1,2 @@
 'atom-text-editor':
-  'ctrl-alt-l': 'formatter-beancount:run'
+  'alt-b f': 'formatter-beancount:run'
