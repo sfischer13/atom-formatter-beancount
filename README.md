@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/apm/v/formatter-beancount.svg)](https://atom.io/packages/formatter-beancount)
 [![Downloads](https://img.shields.io/apm/dm/formatter-beancount.svg)](https://atom.io/packages/formatter-beancount)
 
-### Install
+## Install
 
 Make sure [beancount](https://pypi.python.org/pypi/beancount) is installed and set the path on the settings page.
 
@@ -15,7 +15,7 @@ pip3 install beancount
 apm install formatter-beancount
 ```
 
-### Command
+## Command
 
 `formatter-beancount:run`
 
@@ -23,7 +23,7 @@ apm install formatter-beancount
 Formatter Beancount: Run
 ```
 
-### Keymap
+## Keymap
 
 ```
 'atom-text-editor':
