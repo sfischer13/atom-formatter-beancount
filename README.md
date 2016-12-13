@@ -27,6 +27,5 @@ Formatter Beancount: Run
 
 ```
 'atom-text-editor':
-  'alt-ctrl-l': 'formatter-beancount:run'
-  'alt-cmd-l': 'formatter-beancount:run'
+  'alt-b f': 'formatter-beancount:run'
 ```
